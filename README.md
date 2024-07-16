@@ -40,6 +40,8 @@ Bit Manipulation
 Project Structure
 mathematica
 Copy code
+
+
 .
 ├── Arrays
 │   ├── README.md
@@ -57,6 +59,10 @@ Copy code
 │   │   ├── problem1.cpp
 │   │   └── problem2.cpp
 └── README.md
+
+
+
+
 Each directory contains:
 
 A README.md file with explanations and insights about the topic.
