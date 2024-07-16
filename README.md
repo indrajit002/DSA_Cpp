@@ -113,8 +113,9 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 Feel free to reach out to me:
 
-- Email: [indrajitbarman2003@gmail.com](mailto:indrajitbarman2003@gmail.com)
+- Email: [Mail](mailto:indrajitbarman2003@gmail.com)
 - LinkedIn: [Indrajit Barman](https://www.linkedin.com/in/indrajit-barman-276486227/)
+- Twitter: [Indrajit](https://x.com/indrajit_b0002)
 
 ---
 
