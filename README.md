@@ -90,6 +90,6 @@ Contact
 Feel free to reach out to me:
 
 Email: indrajitbarman2003@gmail.com
-LinkedIn: Indrajit Barman
+LinkedIn: [Indrajit Barman](https://www.linkedin.com/in/indrajit-barman-276486227/)
 Happy coding!
 
