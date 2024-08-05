@@ -13,6 +13,6 @@ int main(){
     printName(Name2);
     cout<<endl;
 	cout<<"HEy Indrajit";
-	
+	   
 
 }
